@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WordFrequency.Tests/WordFrequency.Tests.csproj" />
+  <Project Path="WordFrequency/WordFrequency.csproj" />
+</Solution>

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WordFrequency": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\vinay\\source\\Repos\\WordFrequency\\MobyDick\\mobydick.txt"
+    }
+  }
+}
